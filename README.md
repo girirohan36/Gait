@@ -1,6 +1,10 @@
 # Human Pose Estimation Based Robust Gait Generation and Estimation in Humanoid Robot
 
  In this paper ,we have proposed a methodology to achieve adaptive and autonomous gait generation and correction mechanisms in humanoid robots. The methodology used in this paper has been implemented in **Robotis Darwin Humanoid Robots** for dynamic gait generation in uneven terrain and inclined plane.
+
+Link for the Journal Publication at [International Journal of Soft Computing And Artificial Intelligence (IJSCAI)](https://iraj.doionline.org/dx/IJSCAI-IRAJ-DOIONLINE-16654)
+
+Link for Research Publication at [IRAJ International Conference](https://www.digitalxplore.org/proceeding.php?pid=446)
  
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/26904968/66437682-0d1c1580-ea48-11e9-8f79-ae2309d5c85c.png)
 
